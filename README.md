@@ -1,2 +1,2 @@
 # MachineLearning
-A machine learning project
+A machine learning project named Digit Recognition.
