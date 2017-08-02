@@ -1,4 +1,4 @@
-Logistics Regression
+Logistic Regression
 
 
 Question:   Perform logistic regression using data in files "ex2data1-logistic.xls" and "ex2data2-logistic.xls" for each these data sets.
